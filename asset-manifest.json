@@ -1,15 +1,21 @@
 {
   "files": {
     "main.css": "/akshita/static/css/main.dfb03293.css",
-    "main.js": "/akshita/static/js/main.e82404ad.js",
+    "main.js": "/akshita/static/js/main.50f71266.js",
     "static/js/453.37c0f5fa.chunk.js": "/akshita/static/js/453.37c0f5fa.chunk.js",
+    "static/media/munch.jpg": "/akshita/static/media/munch.3b094caad11e00e0dd87.jpg",
+    "static/media/better-luck.jpg": "/akshita/static/media/better-luck.7413e24b8e47b28741ef.jpg",
+    "static/media/5star.jpg": "/akshita/static/media/5star.070f4dcf96f4fa07b9dd.jpg",
+    "static/media/silk.jpg": "/akshita/static/media/silk.4cd6d307663def2db66f.jpg",
+    "static/media/dairy-milk.jpg": "/akshita/static/media/dairy-milk.798a38c5380db6275b73.jpg",
+    "static/media/kitkat.jpg": "/akshita/static/media/kitkat.b265cb62ebcca99189cf.jpg",
     "index.html": "/akshita/index.html",
     "main.dfb03293.css.map": "/akshita/static/css/main.dfb03293.css.map",
-    "main.e82404ad.js.map": "/akshita/static/js/main.e82404ad.js.map",
+    "main.50f71266.js.map": "/akshita/static/js/main.50f71266.js.map",
     "453.37c0f5fa.chunk.js.map": "/akshita/static/js/453.37c0f5fa.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.dfb03293.css",
-    "static/js/main.e82404ad.js"
+    "static/js/main.50f71266.js"
   ]
 }
